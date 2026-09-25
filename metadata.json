@@ -1,0 +1,7 @@
+{
+  "name": "Anime Wave — Ação 2D & Gacha",
+  "description": "Jogo de ação 2D lateral com combate por ondas, mini-boss, sistema gacha de personagens anime, acessórios e bênçãos adaptativas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
